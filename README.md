@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Curtis, a data scientist from the United Kingdom.
+
+ - 🖥️ My projects and work mostly involve Python and SQL.
+ - 🌱 I'm currently learning about MLOps and Data Ethics.
+ - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/curtis-comp-sci/).
+ - 🦆 I'm especially interested in ecological projects.
+ - 🧑🏾‍🤝‍🧑🏾 My pronouns are he/him.
 
 <!--
 **CurtisThompson/CurtisThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🥇 medal
 -->
